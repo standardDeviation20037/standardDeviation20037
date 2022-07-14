@@ -10,7 +10,7 @@
 ## Controling Software Outline
 - Control Switching (switching between modes opitimized for different drivers)
 - Logarithmic Control Mapping
-- PID Control Lopp
+- PID Control Loop
 - Autonomous Driving System (Vuforia)
 
 *We are 20037, not your **AVERAGE** robotics team!*
