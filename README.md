@@ -13,3 +13,4 @@
 - PID Control Lopp
 - Autonomous Driving System (Vuforia)
 
+*We are 20037, not your **AVERAGE** robotics team!*
